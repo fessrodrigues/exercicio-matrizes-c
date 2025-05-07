@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1746577136 source:c:\users\felipe.souza\documents\workspaces\matrizes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<ctype.h>
+
