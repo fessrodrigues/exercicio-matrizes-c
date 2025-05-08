@@ -86,7 +86,7 @@ Se quiser ir além e ganhar pontos com o mestre da lógica, tente:
 
 Por favor, entregue os seguintes itens em um único repositório ou pasta:
 
-📁 exercicio-matrizes/
+📁 exercicio-matrizes/ 
 ├── 📄 README.md (este arquivo)
 ├── 📄 matriz.por (ou .c, dependendo da linguagem)
 └── 📸 print_tela.png (opcional - print da execução)
@@ -96,11 +96,28 @@ Por favor, entregue os seguintes itens em um único repositório ou pasta:
 
 ## 🤝 Créditos
 
-Desenvolvido para a Unidade Curricular **Lógica de Programação** do curso **Programador de Jogos Digitais** – SENAI Uberlândia.
+Desenvolvido para a Unidade Curricular **Metodologias de Desenvolvimento de Projetos** do curso **Programação de Jogos Digitais**
 
-Instrutor: Felipe Rodrigues
-Turma: PJD-02-N-25
-Versão do exercício: 1.0
+## Ferramentas
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+<br>
+
+## Made by
+<table>
+  <tr>
+    <td>
+      <img width="80px" align="center" src="https://avatars.githubusercontent.com/fessrodrigues"/>
+    </td>
+    <td align="left">
+      <a href="https://github.com/fessrodrigues">
+        <span><b>Instrutor</b></span>
+      </a>
+      <br>
+      <span>PJD-02-N-25 (SENAI UBERLANDIA)</span>
+    </td>
+  </tr>
+</table>
 
 ---
 
