@@ -49,9 +49,9 @@ Manipular essas informações em forma de **matriz** é o que torna possível o 
 Matriz gerada:
 
 [ 12 ][ 45 ][ 67 ][ 23 ][ 56 ]  
-[ 34 ][ 5 ][ 78 ][ 32 ][ 10 ]
-[ 90 ][ 11 ][ 9 ][ 14 ][ 88 ]
-[ 44 ][ 55 ][ 13 ][ 67 ][ 72 ]
+[ 34 ][ 5 ][ 78 ][ 32 ][ 10 ]  
+[ 90 ][ 11 ][ 9 ][ 14 ][ 88 ]  
+[ 44 ][ 55 ][ 13 ][ 67 ][ 72 ]  
 [ 31 ][ 80 ][ 21 ][ 65 ][ 99 ]
 
 Soma total: 1441
@@ -87,9 +87,9 @@ Se quiser ir além e ganhar pontos com o mestre da lógica, tente:
 Por favor, entregue os seguintes itens em um único repositório ou pasta:
 
 📁 exercicio-matrizes/  
-├── 📄 README.md (este arquivo)
-├── 📄 matriz.por (ou .c, dependendo da linguagem)
-└── 📸 print_tela.png (opcional - print da execução)
+├── 📄 README.md (este arquivo)  
+├── 📄 matriz.por (ou .c, dependendo da linguagem)  
+└── 📸 print_tela.png (opcional - print da execução)  
 
 
 ---
@@ -98,7 +98,7 @@ Por favor, entregue os seguintes itens em um único repositório ou pasta:
 
 Desenvolvido para a Unidade Curricular **Metodologias de Desenvolvimento de Projetos** do curso **Programação de Jogos Digitais**
 
-## Ferramentas
+### Ferramentas
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 <br>
