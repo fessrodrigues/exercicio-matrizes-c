@@ -86,7 +86,7 @@ Se quiser ir além e ganhar pontos com o mestre da lógica, tente:
 
 Por favor, entregue os seguintes itens em um único repositório ou pasta:
 
-📁 exercicio-matrizes/ 
+📁 exercicio-matrizes/  
 ├── 📄 README.md (este arquivo)
 ├── 📄 matriz.por (ou .c, dependendo da linguagem)
 └── 📸 print_tela.png (opcional - print da execução)
