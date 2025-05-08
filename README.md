@@ -48,7 +48,7 @@ Manipular essas informações em forma de **matriz** é o que torna possível o 
 
 Matriz gerada:
 
-[ 12 ][ 45 ][ 67 ][ 23 ][ 56 ]
+[ 12 ][ 45 ][ 67 ][ 23 ][ 56 ]  
 [ 34 ][ 5 ][ 78 ][ 32 ][ 10 ]
 [ 90 ][ 11 ][ 9 ][ 14 ][ 88 ]
 [ 44 ][ 55 ][ 13 ][ 67 ][ 72 ]
